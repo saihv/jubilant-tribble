@@ -1,0 +1,35 @@
+{{ define "main" }}
+<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
+<div class = "article-content">
+        {{ if isset .Site.Params "description" }}
+        <div class="description">
+            <p>{{ .Site.Params.Description | markdownify }}</p>
+        </div>
+        {{ end }}
+
+        <!-- Range over the pages and only include the ones that are a post type -->
+        <img src = "/images/sai.png" height="200" width="190" style="float:right; padding: 50px 30px 30px 30px; ">
+        
+<div align="justify">    <br><br>
+    I am currently a researcher in the Autonomous Systems group at Microsoft. As part of my research, I focus on the development of perception and planning algorithms for robotics, specifically through robust neural networks and the bridging of the simulation-reality gap. I received my PhD from the Texas A&M University, where I was part of the Unmanned Systems Lab headed by Srikanth Saripalli. My PhD thesis focused on collaborative localization and uncertainty-aware navigation for groups of micro aerial vehicles. I also worked on applying computer vision and machine learning to other aerial/ground vehicle research and medical robotics. 
+    <br> Prior to that, I received my MS from the Arizona State University, where I was part of the Extreme Environment Robotics Lab. During these years, I worked on the design and development of various robotic platforms and sensory networks. 
+</div>     
+        <div style="width: 100%; overflow: hidden;">
+            <div style="width: 600px; float: left;"> <h3>Research Interests</h3><ul>
+                <li>Robot Perception and Planning</li>
+                <li><i class="fa-li fa fa-check"></i>Machine Learning</li>
+                <li><i class="fa-li fa fa-check"></i>Computer Vision</li>
+                </ul> </div>
+            <div style="margin-left: 620px;"> <h3>Education</h3> <ul class="fa-ul">
+                <li><i class="fa-li fa fa-graduation-cap"></i>PhD (Robotics), 2019<br>Texas A&M University</li>
+                <li><i class="fa-li fa fa-graduation-cap"></i>M.S. (Electrical Engineering), 2013<br>Arizona State University</li>
+                <li><i class="fa-li fa fa-graduation-cap"></i>B.Tech. (Electrical Engineering), 2011<br>JNTU, India</li>
+                </ul> </div>
+        </div>
+        <div style="text-align: justify">    
+            {{ .Content }}
+            </div>
+        
+    </div>
+
+{{ end }}

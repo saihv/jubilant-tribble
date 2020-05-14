@@ -1,0 +1,33 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sai Vemprala"
+theme = "noteworthy"
+staticDir = ["static"]
+
+
+[params]
+	math = true
+    twitter = "saihv"
+	linkedin = "saihv"
+    github = "#"
+    googlescholar = "#"
+
+# Menu links along the sidebar navigation.
+[[menu.main]]
+	identifier = "tags"
+	name = "Publications"
+	url = "/pubs/"
+	weight = 2
+
+[[menu.main]]
+	name = "Projects"
+	identifier = "archives"
+	url = "/research/"
+	weight = 1
+
+
+[[menu.main]]
+	name = "Experience"
+	identifier = "exp"
+	url = "/exp/"
+	weight = 3
