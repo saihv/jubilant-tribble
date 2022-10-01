@@ -26,5 +26,5 @@ jobs:
           #   keep_files: true
           user_name: saihv
           user_email: saihemachandra.v@gmail.com
-          publish_branch: master
+          publish_branch: gh_pages
           cname: saihv.com
