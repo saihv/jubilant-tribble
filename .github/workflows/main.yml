@@ -20,11 +20,11 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.token }}
+          personal_token: ${{ secrets.TOKEN }}
           external_repository: saihv/saihv.github.io
           publish_dir: ./public
           #   keep_files: true
           user_name: saihv
           user_email: saihemachandra.v@gmail.com
-          publish_branch: gh_pages
+          publish_branch: master
           cname: saihv.com
