@@ -1,9 +1,8 @@
-baseURL = "http://saihv.github.io/"
+baseURL = "https://saihv.github.io"
 languageCode = "en-us"
 title = "Sai H. Vemprala"
 theme = "noteworthy"
 staticDir = ["static"]
-
 
 [params]
 	math = true
