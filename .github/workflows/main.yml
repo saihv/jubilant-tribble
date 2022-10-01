@@ -20,8 +20,8 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: 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
-          external_repository: saihv.github.io
+          token: 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
+          external_repository: saihv/saihv.github.io
           publish_dir: ./public
           #   keep_files: true
           user_name: saihv
