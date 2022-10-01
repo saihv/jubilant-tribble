@@ -1,3 +1,4 @@
 resources/
 *.lock
 *.content
+.DS_Store

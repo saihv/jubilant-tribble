@@ -3,8 +3,8 @@ layout: page
 title: Experience
 ---
 
-**Researcher : Microsoft Corporation** (2019 - present)
-- Researcher in the Autonomous Systems group of the AI & Research division.
+**Senior Researcher : Microsoft Corporation** (2019 - present)
+- Senior Researcher in the Autonomous Systems and Robotics Research group.
 
 **Research Assistant : Unmanned Systems Lab, Texas A&M University** (2017 - 2019)
 - Primary PhD research: Collaborative localization and navigation for micro aerial vehicle swarms using vision.

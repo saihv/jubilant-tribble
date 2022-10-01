@@ -31,3 +31,7 @@ staticDir = ["static"]
 	identifier = "exp"
 	url = "/exp/"
 	weight = 3
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe= true

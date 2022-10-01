@@ -11,10 +11,12 @@ $gray-medium: #898989;
 $gray-dark: #000000;
 $highlight: #FFEC5C;
 
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans');
 // FONTS
-$serif: "Segoe";
-$sans-serif: "Segoe";
-$code: "Segoe";
+$serif: "Noto Sans";
+$sans-serif: "Noto Sans";
+$code: "Noto Sans";
 
 /* SASS IMPORT ========================================================================== */
 
@@ -44,7 +46,7 @@ body {
     color: $gray-dark;
     font-family: $sans-serif;
     margin: 0;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
 }
 
 // TEXT
@@ -284,7 +286,7 @@ nav {
 
     a {
         font-family: $serif;
-        font-size: 1.5em;
+        font-size: 1.4em;
         color: #FFFFFF;
         text-decoration: none;
         margin-top: 0.75em;
