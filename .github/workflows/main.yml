@@ -27,4 +27,4 @@ jobs:
           user_name: saihv
           user_email: saihemachandra.v@gmail.com
           publish_branch: master
-          cname: saihv.com
+          cname: https://www.saihv.com
