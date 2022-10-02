@@ -24,7 +24,6 @@ staticDir = ["static"]
 	url = "/research/"
 	weight = 1
 
-
 [[menu.main]]
 	name = "Experience"
 	identifier = "exp"
