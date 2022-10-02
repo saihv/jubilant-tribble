@@ -542,6 +542,9 @@ img[src*='#left'] {
 }
 img[src*='#right'] {
     float: right;
+    padding-left: 2em;
+    width: 300px;
+    height: 150px;
 }
 img[src*='#center'] {
     display: block;

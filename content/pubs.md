@@ -32,11 +32,11 @@ title: Publications
 * Sai Vemprala, Srikanth Saripalli, Carlos Vargas, Martin Bues, Yanle Hu, Jiajian Shen. "Real-time Tumor Tracking for Pencil Beam Scanning Proton Therapy", IROS 2018. [[pub]]
 * Adrian Carrio, Sai Vemprala, Andres Ripoll, Srikanth Saripalli, Pascual Campoy. "Drone Detection using Depth Maps", IROS 2018. [[arxiv]](https://arxiv.org/abs/1808.00259)
 * Sai Vemprala, Srikanth Saripalli. "Monocular Vision based Collaborative Localization for Micro Aerial Vehicle Swarms", ICUAS 2018. [[arxiv]](https://arxiv.org/abs/1804.02510)
-* Sai Vemprala, Srikanth Saripalli. "Collaborative Uncertainty-aware Planning for Vision Based Multirotor Swarms", AHS Forum 74, 2018. [[pdf]]
-* Sai Vemprala, Srikanth Saripalli. "Vision based Collaborative Path Planning for Micro Aerial Vehicles", ICRA 2018. [[pub]]
-* Sai Vemprala, Srikanth Saripalli. "Vision Based Collaborative Localization for Swarms of Aerial Vehicles", AHS Forum 73, 2017. [[pub]]
-* Sai Vemprala, Srikanth Saripalli. "Vision Based Collaborative Localization of Multirotor Vehicles", IROS 2016. [[pub]]
-* Andres Mora, Sai Vemprala, Adrian Carrio, Srikanth Saripalli, "Flight performance assessment of land surveying trajectories for multiple UAV platforms", RED-UAS 2015. [[pub]]
+* Sai Vemprala, Srikanth Saripalli. "Collaborative Uncertainty-aware Planning for Vision Based Multirotor Swarms", AHS Forum 74, 2018. [[pdf]]()
+* Sai Vemprala, Srikanth Saripalli. "Vision based Collaborative Path Planning for Micro Aerial Vehicles", ICRA 2018. [[pub]]()
+* Sai Vemprala, Srikanth Saripalli. "Vision Based Collaborative Localization for Swarms of Aerial Vehicles", AHS Forum 73, 2017. [[pub]]()
+* Sai Vemprala, Srikanth Saripalli. "Vision Based Collaborative Localization of Multirotor Vehicles", IROS 2016. [[pub]]()
+* Andres Mora, Sai Vemprala, Adrian Carrio, Srikanth Saripalli, "Flight performance assessment of land surveying trajectories for multiple UAV platforms", RED-UAS 2015. [[pub]]()
 
 
 ### Posters

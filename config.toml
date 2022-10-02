@@ -19,7 +19,7 @@ staticDir = ["static"]
 	weight = 2
 
 [[menu.main]]
-	name = "Projects"
+	name = "Research"
 	identifier = "archives"
 	url = "/research/"
 	weight = 1
