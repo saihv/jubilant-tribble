@@ -9,7 +9,6 @@ staticDir = ["static"]
 	email = "mailto:mail@saihv.com"
     twitter = "https://twitter.com/saihv"
 	linkedin = "https://linkedin.com/in/saihv"
-    github = "https://github.com/saihv"
     googlescholar = "https://scholar.google.com/citations?user=PnaHFhUAAAAJ&hl=en"
 
 # Menu links along the sidebar navigation.
