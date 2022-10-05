@@ -6,6 +6,7 @@ staticDir = ["static"]
 
 [params]
 	math = true
+	email = "mailto:mail@saihv.com"
     twitter = "https://twitter.com/saihv"
 	linkedin = "https://linkedin.com/in/saihv"
     github = "https://github.com/saihv"
