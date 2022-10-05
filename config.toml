@@ -1,4 +1,4 @@
-baseURL = "https://saihv.com"
+baseURL = "//saihv.com"
 languageCode = "en-us"
 title = "Sai H. Vemprala"
 theme = "noteworthy"
