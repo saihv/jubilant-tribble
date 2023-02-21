@@ -5,9 +5,9 @@ title: Publications
 
 ### Preprints
 
+* Sai Vemprala*, Rogerio Bonatti*, Arthur Bucker, Ashish Kapoor. "ChatGPT for Robotics: Design Principles and Model Abilities". [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)
+* Yue Meng, Sai Vemprala, Rogerio Bonatti, Chuchu Fan, Ashish Kapoor. "ConBaT: Control Barrier Transformer for Safe Policy Learning".
 * Rogerio Bonatti, Sai Vemprala, Shuang Ma, Felipe Frujeri, Shuhang Chen, Ashish Kapoor. "PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pretraining". [[arxiv]](https://arxiv.org/abs/2209.11133)
-* Arthur Bucker, Luis Figueredo, Sami Haddadin, Shuang Ma, Ashish Kapoor, Sai Vemprala, Rogerio Bonatti. "LaTTe: Language Trajectory TransformEr". [[arxiv]](https://arxiv.org/abs/2208.02918)
-* Cheng Yao Wang, Eyal Ofek, Daniel McDuff, Oron Nir, Sai Vemprala, Ashish Kapoor, Mar Gonzalez-Franco. "CityLifeSim: A High-Fidelity Pedestrian and Vehicle Simulation with Complex Behaviors".
 * Weijian Xu, Shuang Ma, Yale Song, Daniel McDuff, Rogerio Bonatti, Sai Vemprala, Chunyuan Li, Jianwei Yang, Vibhav Vineet, Ratnesh Madaan, Ashish Kapoor. "Looking through inter-frame changes: Learning video representations with dense motion correspondence". 
 
 ### Journal Papers
@@ -18,6 +18,8 @@ title: Publications
 
 ### Conference Papers
 
+* Arthur Bucker, Luis Figueredo, Sami Haddadin, Shuang Ma, Ashish Kapoor, Sai Vemprala, Rogerio Bonatti. "LaTTe: Language Trajectory TransformEr", ICRA 2023. [[arxiv]](https://arxiv.org/abs/2208.02918)
+* Cheng Yao Wang, Eyal Ofek, Daniel McDuff, Oron Nir, Sai Vemprala, Ashish Kapoor, Mar Gonzalez-Franco. "CityLifeSim: A High-Fidelity Pedestrian and Vehicle Simulation with Complex Behaviors", ICIR 2022.
 * Jayesh Gupta*, Sai Vemprala*, Ashish Kapoor. "Learning Modular Simulations for Homogeneous Systems", NeurIPS 2022.
 * Guillaume Leclerc, Hadi Salman, Andrew Ilyas, Sai Vemprala, Logan Engstrom, Vibhav Vineet, Kai Xiao, Pengchuan Zhang, Shibani Santurkar, Greg Yang, Ashish Kapoor, Aleksander Madry, "3DB: A Framework for Debugging Computer Vision Models", NeurIPS 2022. [[arxiv]](https://arxiv.org/abs/2106.03805) [[code]](https://github.com/3db/3db)
 * Benoit Guillard, Sai Vemprala, Jayesh Gupta, Ondrej Miksik, Vibhav Vineet, Pascal Fua, Ashish Kapoor. "Learning to Simulate Realistic LiDARs", IROS 2022. 

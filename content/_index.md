@@ -7,6 +7,7 @@ title: Research
 
 <div style="overflow: auto; height:250pt; width:100%;">
 
+* Feb 2023 : Our latest work on using ChatGPT for robotics applications is out! Check out our [blogpost](https://aka.ms/ChatGPT-Robotics), [paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf), and [code](https://github.com/microsoft/PromptCraft-Robotics).
 * Sep 2022 : Two papers accepted at NeurIPS 2022.
 * Jun 2022 : Two papers accepted at IROS 2022.
 * May 2022 : Acknowledged as an Outstanding Reviewer for CVPR 2022.
