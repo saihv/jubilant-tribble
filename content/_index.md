@@ -7,6 +7,8 @@ title: Research
 
 <div style="overflow: auto; height:250pt; width:100%;">
 
+* May 2023 : I co-organized the first [Pretraining for Robotics](https://microsoft.github.io/robotics.pretraining.workshop.icra/) workshop at ICRA 2023. 
+* Apr 2023 : I am serving as an Area Chair for NeurIPS 2023.
 * Feb 2023 : Our latest work on using ChatGPT for robotics applications is out! Check out our [blogpost](https://aka.ms/ChatGPT-Robotics), [paper](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf), and [code](https://github.com/microsoft/PromptCraft-Robotics).
 * Sep 2022 : Two papers accepted at NeurIPS 2022.
 * Jun 2022 : Two papers accepted at IROS 2022.

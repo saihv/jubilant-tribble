@@ -12,9 +12,9 @@ $gray-dark: #000000;
 $highlight: #FFEC5C;
 
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Inter:wght@300;400&family=Kaisei+Decol:wght@700&family=Kaisei+Tokumin&family=Lato:wght@300&family=Noto+Sans&family=Source+Sans+Pro&display=swap');
 // FONTS
-$serif: "Noto Sans";
+$serif: "Kaisei Decol";
 $sans-serif: "Noto Sans";
 $code: "Noto Sans";
 
@@ -28,13 +28,6 @@ $code: "Noto Sans";
 @import "vendor/syntax";
 
 /* STYLES ========================================================================== */
-
-html,
-body {
-  height: 100%;
-  width: 100%;
-  overflow-x: hidden;
-}
 
 html {
     margin: 0;
@@ -63,9 +56,9 @@ article .post-footer>a {
 }
 
 h1 {
-    font-size: 1.9em;
+    font-size: 1.5em;
     padding-top: 0.2em;
-    margin: 0.5em 0em 0.75em 0em;
+    margin: 2em 0em 0.8em 0em;
     font-family: $serif;
     font-weight: 600;
     line-height: 1.3em;
@@ -77,7 +70,7 @@ h4,
 h5,
 h6 {
     margin: 1.25em 0em 0.75em 0em;
-    font-family: $serif;
+    font-family: $sans-serif;
     font-weight: 600;
 }
 
@@ -138,17 +131,17 @@ a:visited {
 
 .color-link {
     text-decoration: none;
-    color: $teal;
+    color: $gray-light;
     font-family: $sans-serif;
     margin-right: 1.5em;
 }
 
 .color-link:visited {
-    color: $teal;
+    color: $gray-lightest;
 }
 
 .color-link:hover {
-    color: $teal-darker;
+    color: #FFFFFF;
 
     .color-arrow {
         fill: $teal-darker;
@@ -257,7 +250,7 @@ nav {
     padding: 1em 1.5em 1em 1.5em;
     max-width: 100%;
     background-color: black;
-    font-size:1.2rem;
+    font-size:1.1rem;
 }
 
 .image {
@@ -280,13 +273,14 @@ nav {
     }
 
 .site-title {
-    margin: 1.5em 0em 1em 0em;
+    margin: 1.0em 0em 1em 0em;
     text-align: center;
-    line-height: 1.7em;
+    line-height: 1.5em;
 
     a {
         font-family: $serif;
-        font-size: 1.4em;
+        font-weight: 700;
+        font-size: 1.5em;
         color: #FFFFFF;
         text-decoration: none;
         margin-top: 0.75em;
@@ -297,7 +291,9 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
+    margin: 0 auto;
 }
 
 .nav-menu-mobile {
@@ -308,7 +304,9 @@ nav {
 }
 
 .nav-link {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.7em;
+    font-family: $serif;
+    font-weight: 700;
 }
 
 .description {
@@ -324,7 +322,7 @@ nav {
     padding: 0.5em 1.5em 0em 1.5em;
     margin: 0em;
     max-width: 100%;
-    text-align: justify;
+    text-align: left;
 }
 
 .paginator {
@@ -332,7 +330,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    margin-top: 1em;
+    margin-top: em;
     padding-bottom: 1.5em;
     align-items: center;
 
@@ -507,6 +505,7 @@ nav {
 
 footer {
     text-align: center;
+    font-size: 0.8rem;
 
     .social-icons {
         margin: 0 0 1.25em -.5em;
@@ -526,7 +525,6 @@ footer {
 
     a {
         text-decoration: none;
-        font-size: 0.95rem;
         color: $gray-light;
     }
 
@@ -542,11 +540,11 @@ footer {
 img[src*='#left'] {
     float: left;
 }
-img[src*='#right'] {
-    float: right;
-    padding-left: 2em;
+img {
+    position: relative;
+    padding-bottom: 1em;
     width: 300px;
-    height: 150px;
+    height: 170px;
 }
 img[src*='#center'] {
     display: block;

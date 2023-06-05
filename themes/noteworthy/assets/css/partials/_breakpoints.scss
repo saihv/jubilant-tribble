@@ -16,8 +16,15 @@
         padding: 25px;
     }
 
+    body {
+        color: $gray-dark;
+        font-family: $sans-serif;
+        margin: 1.8em 0em 0em 0em;
+        font-size: 0.9rem;
+    }
+
     .site-title {
-        margin: 1em 0em 2em 0em;
+        margin: 2.5em 0em 2em 0em;
         text-align: left;
     }
 
@@ -25,6 +32,7 @@
         display: flex;
         flex-direction: column;
         align-items: flex-start;
+        margin: 2.2em 0em 0em 0em;
     }
     .nav-menu-mobile {
         display: flex;
@@ -33,7 +41,7 @@
     }
 
     .nav-link {
-        margin-bottom: 1em;
+        margin-bottom: 1.5em;
     }
 
     .description {
@@ -54,7 +62,7 @@
     }
 
     .content-container {
-        max-width: 1000px;
+        max-width: 900px;
         margin-left: 310px;
         padding: 0 1.5em 0 0;
         height: 100%;
@@ -88,7 +96,7 @@
     }
 
     .footer-mobile {
-        visibility: hidden;
+        visibility: visible;
         height: 0em;
         padding: 0em;
         margin: 0em;
@@ -97,5 +105,12 @@
 
     .social-icons {
         width: 100%;
+    }
+
+    img {
+        float: right;
+        padding-left: 2em;
+        width: 300px;
+        height: 170px;
     }
 }

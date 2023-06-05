@@ -6,9 +6,8 @@ title: Publications
 ### Preprints
 
 * Sai Vemprala*, Rogerio Bonatti*, Arthur Bucker, Ashish Kapoor. "ChatGPT for Robotics: Design Principles and Model Abilities". [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)
-* Yue Meng, Sai Vemprala, Rogerio Bonatti, Chuchu Fan, Ashish Kapoor. "ConBaT: Control Barrier Transformer for Safe Policy Learning".
+* Yue Meng, Sai Vemprala, Rogerio Bonatti, Chuchu Fan, Ashish Kapoor. "ConBaT: Control Barrier Transformer for Safe Policy Learning". [[arxiv]](https://arxiv.org/abs/2303.04212)
 * Rogerio Bonatti, Sai Vemprala, Shuang Ma, Felipe Frujeri, Shuhang Chen, Ashish Kapoor. "PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pretraining". [[arxiv]](https://arxiv.org/abs/2209.11133)
-* Weijian Xu, Shuang Ma, Yale Song, Daniel McDuff, Rogerio Bonatti, Sai Vemprala, Chunyuan Li, Jianwei Yang, Vibhav Vineet, Ratnesh Madaan, Ashish Kapoor. "Looking through inter-frame changes: Learning video representations with dense motion correspondence". 
 
 ### Journal Papers
 

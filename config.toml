@@ -14,21 +14,21 @@ staticDir = ["static"]
 # Menu links along the sidebar navigation.
 [[menu.main]]
 	identifier = "tags"
-	name = "Publications"
+	name = "publications"
 	url = "/pubs/"
+	weight = 3
+
+[[menu.main]]
+	name = "research"
+	identifier = "archives"
+	url = "/research/"
 	weight = 2
 
 [[menu.main]]
-	name = "Research"
-	identifier = "archives"
-	url = "/research/"
-	weight = 1
-
-[[menu.main]]
-	name = "Experience"
+	name = "experience"
 	identifier = "exp"
 	url = "/exp/"
-	weight = 3
+	weight = 1
 
 [markup]
   [markup.goldmark.renderer]
