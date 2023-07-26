@@ -5,9 +5,8 @@ title: Publications
 
 ### Preprints
 
-* Sai Vemprala*, Rogerio Bonatti*, Arthur Bucker, Ashish Kapoor. "ChatGPT for Robotics: Design Principles and Model Abilities". [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)
+* Sai Vemprala*, Rogerio Bonatti*, Arthur Bucker, Ashish Kapoor. "ChatGPT for Robotics: Design Principles and Model Abilities". [[arxiv]](https://arxiv.org/abs/2306.17582) [[blog]](aka.ms/ChatGPT-Robotics)
 * Yue Meng, Sai Vemprala, Rogerio Bonatti, Chuchu Fan, Ashish Kapoor. "ConBaT: Control Barrier Transformer for Safe Policy Learning". [[arxiv]](https://arxiv.org/abs/2303.04212)
-* Rogerio Bonatti, Sai Vemprala, Shuang Ma, Felipe Frujeri, Shuhang Chen, Ashish Kapoor. "PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pretraining". [[arxiv]](https://arxiv.org/abs/2209.11133)
 
 ### Journal Papers
 
@@ -17,11 +16,13 @@ title: Publications
 
 ### Conference Papers
 
+* Yao Wei, Yanchao Sun, Ruijie Zheng, Sai Vemprala, Rogerio Bonatti, Shuhang Chen, Ratnesh Madaan, Zhongjie Ba, Ashish Kapoor, Shuang Ma. "Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training", ICCV 2023. [[arxiv]](https://arxiv.org/abs/2307.07909)
+* Rogerio Bonatti, Sai Vemprala, Shuang Ma, Felipe Frujeri, Shuhang Chen, Ashish Kapoor. "PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pretraining", IROS 2023. [[arxiv]](https://arxiv.org/abs/2209.11133)
 * Arthur Bucker, Luis Figueredo, Sami Haddadin, Shuang Ma, Ashish Kapoor, Sai Vemprala, Rogerio Bonatti. "LaTTe: Language Trajectory TransformEr", ICRA 2023. [[arxiv]](https://arxiv.org/abs/2208.02918)
 * Cheng Yao Wang, Eyal Ofek, Daniel McDuff, Oron Nir, Sai Vemprala, Ashish Kapoor, Mar Gonzalez-Franco. "CityLifeSim: A High-Fidelity Pedestrian and Vehicle Simulation with Complex Behaviors", ICIR 2022.
-* Jayesh Gupta*, Sai Vemprala*, Ashish Kapoor. "Learning Modular Simulations for Homogeneous Systems", NeurIPS 2022.
+* Jayesh Gupta*, Sai Vemprala*, Ashish Kapoor. "Learning Modular Simulations for Homogeneous Systems", NeurIPS 2022. [[arxiv]](https://arxiv.org/abs/2210.16294)
 * Guillaume Leclerc, Hadi Salman, Andrew Ilyas, Sai Vemprala, Logan Engstrom, Vibhav Vineet, Kai Xiao, Pengchuan Zhang, Shibani Santurkar, Greg Yang, Ashish Kapoor, Aleksander Madry, "3DB: A Framework for Debugging Computer Vision Models", NeurIPS 2022. [[arxiv]](https://arxiv.org/abs/2106.03805) [[code]](https://github.com/3db/3db)
-* Benoit Guillard, Sai Vemprala, Jayesh Gupta, Ondrej Miksik, Vibhav Vineet, Pascal Fua, Ashish Kapoor. "Learning to Simulate Realistic LiDARs", IROS 2022. 
+* Benoit Guillard, Sai Vemprala, Jayesh Gupta, Ondrej Miksik, Vibhav Vineet, Pascal Fua, Ashish Kapoor. "Learning to Simulate Realistic LiDARs", IROS 2022. [[arxiv]](https://arxiv.org/abs/2209.10986)
 * Shuang Ma, Sai Vemprala, Wenshan Wang, Jayesh Gupta, Yale Song, Daniel McDuff, Ashish Kapoor. "COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems", IROS 2022. [[arxiv]](https://arxiv.org/abs/2203.15788) [[code]](https://github.com/microsoft/COMPASS)
 * Saachi Jain, Hadi Salman, Eric Wong, Pengchuan Zhang, Vibhav Vineet, Sai Vemprala, Aleksander Madry. "Missingness Bias in Model Debugging", ICLR 2022. [[arxiv]](https://arxiv.org/abs/2204.08945)
 * Daniel McDuff, Yale Song, Jiyoung Lee, Vibhav Vineet, Sai Vemprala, Hadi Salman, Shuang Ma, Kwanghoon Sohn, Ashish Kapoor. "CausalCity: Complex Simulations with Agency for Causal Discovery and Reasoning", CLeAR 2022. [[arxiv]](https://arxiv.org/abs/2106.13364) [[website]](https://causalcity.github.io)

@@ -7,9 +7,8 @@ title: Experience
 - Building the next generation of robot intelligence.
 
 **Senior Researcher : Microsoft Corporation** (2019 - 2023)
-- Researched and developed deep learning based perception and action models for autonomous systems.
 - Research areas included multimodal representation learning, large language models, computer vision, and reinforcement learning.
-- Oversaw the development of large-scale ML training pipelines. 
+- Led the development of large-scale ML training pipelines. 
 - Contributed to the development of AirSim, the open source robotics simulator.
 
 **Research Assistant : Unmanned Systems Lab, Texas A&M University** (2017 - 2019)

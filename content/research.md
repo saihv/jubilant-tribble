@@ -11,10 +11,24 @@ LLMs such as ChatGPT unlock a new robotics paradigm, allowing a (potentially non
 
 ---
 
+### Perception-Action Pretraining for Robotics
+![](https://www.microsoft.com/en-us/research/uploads/prod/2022/08/what_learn.gif)
+
+Robotics has long been a field powered by task-specific modules that need significant redesign and retraining if there are changes in robot, sensory, or environmental configuration. Inspired by the paradigm shift in machine learning from task-specific modules to large general purpose models, we introduced models such as COMPASS and PACT which can be pretrained on large amounts of task-agnostic perception and perception-action data respectively. We showed that these pretrained models can be fine-tuned on downstream tasks with minimal data and compute, and can serve as a base for several robotics applications.
+
+---
+
 ### Data-driven Sensor Simulation for Realistic LiDARs
 ![](https://www.microsoft.com/en-us/research/uploads/prod/2022/09/Screen-Shot-2022-09-27-at-10.15.46-AM-1536x1099.png)
 
 While present simulations can generate high quality camera imagery, when it comes to non-visual classes of sensors, they often fall back upon simplified models. Complex sensors such as LiDAR, which lie at the heart of a majority of present day autonomous systems such as self-driving cars, are challenging to model given their dependence on aspects such as material properties of all the objects in an environment. Our data-driven sensor simulation framework uses generative models to emulate LiDAR point clouds given only RGB data.
+
+---
+
+### Unadversarial Examples: Inverting the problem and Designing Robust Objects
+![](https://www.microsoft.com/en-us/research/uploads/prod/2020/12/1400x788_Robust_object_no_logo-1.gif)
+
+Adversarial examples identify objects or images  study a class of computer vision settings wherein one can modify the design of the objects being recognized. We develop a framework that leverages this capability—and deep networks’ unusual sensitivity to input perturbations—to de- sign “robust objects,” i.e., objects that are explicitly optimized to be confidently classified. Our framework yields improved performance on standard benchmarks, a simulated robotics environment, and physical-world experiments.
 
 ---
 
