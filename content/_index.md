@@ -7,6 +7,8 @@ title: Research
 
 <div style="overflow: auto; height:250pt; width:100%;">
 
+* Oct 2023 : Gave invited talks at the Workshop on Photorealistic Simulation for Robotics and the Workshop on Robotic Perception and Mapping at IROS 2023.
+* Sep 2023 : We released the preview of our [General Robot Intelligence Development (GRID)](https://github.com/scaledfoundations/GRID-playground) platform that combines foundation models and simulation to accelerate robotics development. Check out our [technical report](https://arxiv.org/abs/2310.00887).
 * Jul 2023 : Two papers accepted at IROS and ICCV 2023.
 * May 2023 : I co-organized the first [Pretraining for Robotics](https://microsoft.github.io/robotics.pretraining.workshop.icra/) workshop at ICRA 2023. 
 * Apr 2023 : I am serving as an Area Chair for NeurIPS 2023.
