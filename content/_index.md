@@ -7,6 +7,10 @@ title: Research
 
 <div style="overflow: auto; height:250pt; width:100%;">
 
+* Jun 2025 : Gave an invited talk at Unreal Fest 2025 on "Closing the Sim-to-Real Gap with Unreal Engine".
+* Mar 2025 : Hosted a lab session on "Introduction to Robot Simulation" at NVIDIA GTC 2025.
+* Jul 2024 : We released the [General Robot Intelligence Development (GRID)](https://grid.generalrobotics.dev) platform that combines foundation models and simulation for accessible and fast robotics development. 
+* Mar 2024 : Panelist at NVIDIA GTC 2024. 
 * Oct 2023 : Gave invited talks at the Workshop on Photorealistic Simulation for Robotics and the Workshop on Robotic Perception and Mapping at IROS 2023.
 * Sep 2023 : We released the preview of our [General Robot Intelligence Development (GRID)](https://github.com/scaledfoundations/GRID-playground) platform that combines foundation models and simulation to accelerate robotics development. Check out our [technical report](https://arxiv.org/abs/2310.00887).
 * Jul 2023 : Two papers accepted at IROS and ICCV 2023.

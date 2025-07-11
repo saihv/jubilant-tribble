@@ -5,17 +5,19 @@ title: Publications
 
 ### Preprints
 
-* Sai Vemprala*, Rogerio Bonatti*, Arthur Bucker, Ashish Kapoor. "ChatGPT for Robotics: Design Principles and Model Abilities". [[arxiv]](https://arxiv.org/abs/2306.17582) [[blog]](aka.ms/ChatGPT-Robotics)
-* Yue Meng, Sai Vemprala, Rogerio Bonatti, Chuchu Fan, Ashish Kapoor. "ConBaT: Control Barrier Transformer for Safe Policy Learning". [[arxiv]](https://arxiv.org/abs/2303.04212)
+
+* Abhinav Shukla, Sai Vemprala, Aditya Kusupati, Ashish Kapoor. "MatMamba: A Matroyshka State Space Model". [[arxiv]](https://arxiv.org/abs/2410.06718)
 
 ### Journal Papers
 
+* Sai Vemprala*, Rogerio Bonatti*, Arthur Bucker, Ashish Kapoor. "ChatGPT for Robotics: Design Principles and Model Abilities", IEEE Access, 2024. [[arxiv]](https://arxiv.org/abs/2306.17582) [[blog]](aka.ms/ChatGPT-Robotics)
 * Sai Vemprala, Srikanth Saripalli, "Collaborative Localization for Micro Aerial Vehicles", IEEE Access, 2021. [[arxiv]](https://arxiv.org/abs/1905.02648)
 * Adrian Carrio, Jesus Tordesillas Torres, Sai Vemprala, Srikanth Saripalli, Pascual Campoy, "Onboard detection and localization of drones using depth maps", IEEE Access, 2020. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8984298)
 * Alberto E. Behar, Daming D. Chen, et al. including Sai H. Vemprala. MSLED: The Micro Subglacial Lake Exploration Device. Underwater Technology Journal, 2015. [[pdf]](https://www.ingentaconnect.com/content/sut/unwt/2015/00000033/00000001/art00002;jsessionid=agvzc52cz6vi.x-ic-live-01#)
 
 ### Conference Papers
 
+* Yue Meng, Sai Vemprala, Rogerio Bonatti, Chuchu Fan, Ashish Kapoor. "ConBaT: Control Barrier Transformer for Safe Policy Learning", ICRA 2024. [[arxiv]](https://arxiv.org/abs/2303.04212)
 * Yao Wei, Yanchao Sun, Ruijie Zheng, Sai Vemprala, Rogerio Bonatti, Shuhang Chen, Ratnesh Madaan, Zhongjie Ba, Ashish Kapoor, Shuang Ma. "Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training", ICCV 2023. [[arxiv]](https://arxiv.org/abs/2307.07909)
 * Rogerio Bonatti, Sai Vemprala, Shuang Ma, Felipe Frujeri, Shuhang Chen, Ashish Kapoor. "PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pretraining", IROS 2023. [[arxiv]](https://arxiv.org/abs/2209.11133)
 * Arthur Bucker, Luis Figueredo, Sami Haddadin, Shuang Ma, Ashish Kapoor, Sai Vemprala, Rogerio Bonatti. "LaTTe: Language Trajectory TransformEr", ICRA 2023. [[arxiv]](https://arxiv.org/abs/2208.02918)

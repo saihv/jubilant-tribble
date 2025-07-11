@@ -3,7 +3,7 @@ layout: page
 title: Experience
 ---
 
-**Co-founder : Scaled Foundations** (2023 - Present)
+**Co-founder : General Robotics** (2023 - Present)
 - Building the next generation of robot intelligence.
 
 **Senior Researcher : Microsoft Corporation** (2019 - 2023)
