@@ -7,9 +7,12 @@ title: Research
 
 <div style="overflow: auto; height:250pt; width:100%;">
 
+* Sep 2025 : Released our blueprint for building agentic robotics. Check out the [paper](https://genrobo.github.io/Agentic-Robotics/paper.pdf) and [blogpost](https://www.generalrobotics.company/post/agentic-robotics).
 * Jun 2025 : Gave an invited talk at Unreal Fest 2025 on "Closing the Sim-to-Real Gap with Unreal Engine".
+* Apr 2025 : I am serving as an Area Chair for NeurIPS 2025.
 * Mar 2025 : Hosted a lab session on "Introduction to Robot Simulation" at NVIDIA GTC 2025.
 * Jul 2024 : We released the [General Robot Intelligence Development (GRID)](https://grid.generalrobotics.dev) platform that combines foundation models and simulation for accessible and fast robotics development. 
+* Apr 2024 : I am serving as an Area Chair for NeurIPS 2024.
 * Mar 2024 : Panelist at NVIDIA GTC 2024. 
 * Oct 2023 : Gave invited talks at the Workshop on Photorealistic Simulation for Robotics and the Workshop on Robotic Perception and Mapping at IROS 2023.
 * Sep 2023 : We released the preview of our [General Robot Intelligence Development (GRID)](https://github.com/scaledfoundations/GRID-playground) platform that combines foundation models and simulation to accelerate robotics development. Check out our [technical report](https://arxiv.org/abs/2310.00887).
